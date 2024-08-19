@@ -141,6 +141,7 @@ Previous_week_Reveneue = CALCULATE(
 
 ##  Analytics Report
 ![Screenshot 2024-08-19 210254](https://github.com/user-attachments/assets/30544cd4-124b-40fb-8f70-17df91539120)
+
 ![Screenshot 2024-08-19 210225](https://github.com/user-attachments/assets/3f605688-b6bd-4bdc-a38f-3930da4c05e2)
 
 
