@@ -1,5 +1,6 @@
 # Credit_Card_Financial_Dashboard-Public
 
+### Dashboard Link : <iframe title="credit_card_report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYTAyMWY5NzktNjAzZi00MjNiLTgwZWMtZDY5ZGM1ZWVlN2U2IiwidCI6Ijc1NWUxZmNkLWY3YzAtNDBmNi1iMWRhLTg5NjkyNDVkNjg1ZCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Challenge:
 
