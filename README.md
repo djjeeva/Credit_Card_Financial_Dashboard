@@ -146,8 +146,7 @@ Previous_week_Reveneue = CALCULATE(
 
 ## How to Run the Project
 
-## Clone the repository:
-
+ - Clone the repository:
 ```
 https://github.com/djjeeva/Credit_Card_Financial_Dashboard-Public.git
 ```
