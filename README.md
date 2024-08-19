@@ -30,7 +30,7 @@ We are using MSSQL database that  containing transaction and customer data.
 **Database Schema Creation:**
 
 ## Create tables in SQL:
-
+```sql
 AgeGroup = SWITCH(
     TRUE(),
         'customer'[Customer_Age] < 30 , "20-30",
@@ -40,3 +40,4 @@ AgeGroup = SWITCH(
         'customer'[Customer_Age]>=60,"60+",
         "unknown"
 )
+```
