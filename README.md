@@ -1,4 +1,4 @@
-# Credit_Card_Financial_Dashboard-Public
+# Credit_Card_Financial_Dashboard
 
 ## Challenge:
 
