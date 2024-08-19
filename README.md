@@ -155,9 +155,8 @@ https://github.com/djjeeva/Credit_Card_Financial_Dashboard-Public.git
 - import them into the database. Refresh the Power BI dashboard to see the updates.
 
 ### Dashboard Link
-<iframe title="credit_card_report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYTAyMWY5NzktNjAzZi00MjNiLTgwZWMtZDY5ZGM1ZWVlN2U2IiwidCI6Ijc1NWUxZmNkLWY3YzAtNDBmNi1iMWRhLTg5NjkyNDVkNjg1ZCJ9" frameborder="0" allowFullScreen="true"></iframe>
-
 If you're interested in exploring and interacting with the dashboard,[click here](https://app.powerbi.com/view?r=eyJrIjoiYTAyMWY5NzktNjAzZi00MjNiLTgwZWMtZDY5ZGM1ZWVlN2U2IiwidCI6Ijc1NWUxZmNkLWY3YzAtNDBmNi1iMWRhLTg5NjkyNDVkNjg1ZCJ9)
-  
+
+## Contact
 For any questions or further information, please contact    [Jeevitha D J](http://jeevithadj1999@gmail.com#fragment)
 
