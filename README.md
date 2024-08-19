@@ -121,5 +121,39 @@ Previous_week_Reveneue = CALCULATE(
 )
 
 ```
+#Project Insights
 
+##Week over Week (WoW) Change
+- Revenue increased by 28.8%
+- Total Transaction Amount & Count increased by xx% & xx%
+- Customer count increased by xx%
+
+  ## Overview Year-to-Date (YTD)
+- Overall revenue is 57M
+- Total interest is 8M
+- Total transaction amount is 46M
+- Male customers are contributing more in revenue 31M, female 26M
+- Blue & Silver credit cards are contributing to 93% of overall transactions
+- TX, NY & CA are contributing to 68%
+- Overall Activation rate is 57.5%
+- Overall Delinquent rate is 6.06%
+
+##  Analytics Report
+
+
+
+
+
+## How to Run the Project
+
+## Clone the repository:
+
+```git clone https://github.com/kartabaykrishna/PowerBI-CC-Dashboard.git```
+- Set up the MSSQL database and import the data using the provided SQL scripts.
+- Open the Power BI dashboard file and connect it to the MSSQL database.
+- To test the real-time functionality, add data to the cust_add.csv and cc_add.csv files  
+- import them into the database. Refresh the Power BI dashboard to see the updates.
+
+  
+For any questions or further information, please contact    [Jeevitha D J](http://jeevithadj1999@gmail.com#fragment)
 
