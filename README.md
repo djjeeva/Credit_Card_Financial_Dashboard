@@ -1,7 +1,5 @@
 # Credit_Card_Financial_Dashboard-Public
 
-### Dashboard Link : <iframe title="credit_card_report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYTAyMWY5NzktNjAzZi00MjNiLTgwZWMtZDY5ZGM1ZWVlN2U2IiwidCI6Ijc1NWUxZmNkLWY3YzAtNDBmNi1iMWRhLTg5NjkyNDVkNjg1ZCJ9" frameborder="0" allowFullScreen="true"></iframe>
-
 ## Challenge:
 
 The challenge was to develop a robust dashboard that could provide real-time insights into credit card transactions and customer profiles. The system needed to handle and process large volumes of data efficiently, ensure accurate reporting, and present information in a user-friendly manner. Key difficulties included integrating data from multiple sources, maintaining real-time updates, and deriving meaningful insights from complex metrics.
@@ -156,6 +154,10 @@ https://github.com/djjeeva/Credit_Card_Financial_Dashboard-Public.git
 - To test the real-time functionality, add data to the cust_add.csv and cc_add.csv files  
 - import them into the database. Refresh the Power BI dashboard to see the updates.
 
+### Dashboard Link
+<iframe title="credit_card_report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYTAyMWY5NzktNjAzZi00MjNiLTgwZWMtZDY5ZGM1ZWVlN2U2IiwidCI6Ijc1NWUxZmNkLWY3YzAtNDBmNi1iMWRhLTg5NjkyNDVkNjg1ZCJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+If you're interested in exploring and interacting with the dashboard,[click here](https://app.powerbi.com/view?r=eyJrIjoiYTAyMWY5NzktNjAzZi00MjNiLTgwZWMtZDY5ZGM1ZWVlN2U2IiwidCI6Ijc1NWUxZmNkLWY3YzAtNDBmNi1iMWRhLTg5NjkyNDVkNjg1ZCJ9)
   
 For any questions or further information, please contact    [Jeevitha D J](http://jeevithadj1999@gmail.com#fragment)
 
