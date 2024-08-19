@@ -120,14 +120,16 @@ Previous_week_Reveneue = CALCULATE(
 )
 
 ```
-#Project Insights
+# Project Insights
 
-##Week over Week (WoW) Change
+## Week over Week (WoW) Change
+
 - Revenue increased by 28.8%
 - Total Transaction Amount & Count increased by xx% & xx%
 - Customer count increased by xx%
 
   ## Overview Year-to-Date (YTD)
+  
 - Overall revenue is 57M
 - Total interest is 8M
 - Total transaction amount is 46M
